@@ -1,0 +1,1 @@
+A project that collects, processes, and visualizes real-time weather and air quality data using public APIs and open-source tools. The system helps users track environmental conditions such as temperature, humidity, AQI (Air Quality Index).
